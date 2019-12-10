@@ -1,0 +1,2 @@
+# Face-Recognizer
+A machine learning model was designed for recognizing the face and predicting the result as face of one of the following: Colin Powell,  Donald Rumsfeld, George W Bush, Gerhard Schroeder and Tony Blair. PCA was depolyed on the model and then it was trained against various classification algorithms like KNN, SVM and Random Forest on both without PCA data and with PCA data. The best among them was then taken for classification.
